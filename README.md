@@ -1,5 +1,5 @@
 <h1>
-Hi there 👋, <br/>I'm a software developer and UX Design
+Hi there 👋, <br/>I'm a UX Design and software developer
 </h1>
 
 <p>
